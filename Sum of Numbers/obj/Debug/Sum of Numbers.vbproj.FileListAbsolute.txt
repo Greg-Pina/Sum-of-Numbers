@@ -1,0 +1,12 @@
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\obj\Debug\WindowsApp1.frmNumbers.resources
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.xml
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+A:\Cincinnati State\.NET programming\Week Eleven\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb
